@@ -1,0 +1,8 @@
+wig dazai,100000,1 minggu
+kostume shenhe,250000000,2 bulan
+sepatu hu tao,100000,2 hari
+senjata alucard,150000000,3 bulan
+white tessel,50000000,5 bulan
+blazer mba teng,5000000,4 minggu
+tanduk mba teng,7000000,2 minggu
+kostum spongebob,1200000,2 minggu
